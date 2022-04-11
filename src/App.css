@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+.App{
+  border:2px solid red;
+  width: 70%;
+  height: 300px;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 200px;
+}
+.banner{
+  display: flex;
+  justify-content: space-around;
+}
+.addScore{
+  justify-content: space-between;
+  margin-bottom: 20px;
+
+}
+.addScore{
+  justify-content: space-between;
+  margin-bottom: 20px;
+
+}
+.addWicket{
+  justify-content: space-between;
+  margin-bottom: 20px;
+
+}
